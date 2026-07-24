@@ -737,3 +737,23 @@ Can you complete this task in just one line of code using method chaining?
 
 <a href="day1_q15.py" class="link">**[🔗 Solution](day1_q15.py)**</a>
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RKPROGRAMMING10K/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RKPROGRAMMING10K/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RKPROGRAMMING10K/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/RKPROGRAMMING10K/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+<!---LeetCode Topics End-->
